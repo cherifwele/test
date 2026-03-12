@@ -1,0 +1,64 @@
+/* Style général de la page */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f6f8;
+    margin: 0;
+    padding: 20px;
+}
+
+/* Header */
+header {
+    background-color: #2c3e50;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Titres */
+h1 {
+    margin: 0;
+}
+
+h2 {
+    color: #2c3e50;
+}
+
+/* Sections */
+section {
+    background-color: white;
+    border: 1px solid #ddd;
+    padding: 15px;
+    margin-top: 20px;
+    border-radius: 6px;
+}
+
+/* Style spécifique pour la section intro */
+#intro {
+    border-left: 6px solid #3498db;
+}
+
+/* Paragraphes */
+p {
+    line-height: 1.6;
+}
+
+/* Liens */
+a {
+    color: #3498db;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Images */
+img {
+    max-width: 100%;
+    margin-top: 10px;
+}
+
+/* Ligne horizontale */
+hr {
+    margin: 30px 0;
+}
